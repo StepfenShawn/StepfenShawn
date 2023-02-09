@@ -1,4 +1,3 @@
-### Hi, I am Stepfen Shawn, a computer otaku🥷
 I started coding at the age of 13, and I've never been tired of it!    
 Now I'm a 18 years old guy from Canton, an Unreal Engine Dev, also a Compiler & AI researcher !!!     
 ```scheme
