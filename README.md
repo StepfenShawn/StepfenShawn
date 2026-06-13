@@ -4,4 +4,4 @@ I'm [**Shawn**](https://stepfenshawn.github.io/), a **software engineer** in Chi
 
 I currently work as a **software engineer** at a quantitative finance company (remotely), where I optimize **low-latency trading systems**. I'm also a committer at [LLVM](https://github.com/llvm), where I help to improve **clang** (A compiler and tooling infrastructure for C/C++).
 
-Outside of work, I’m interested in Neurosymbolic AI 🧠. I explore new ideas💡, create tech-related content📝, work out💪, and play basketball🏀.  
+Outside of work, I’m interested in Neurosymbolic AI 🧠. I explore new ideas 💡, create tech-related content 📝,  go to the gym 💪, and play basketball 🏀 — I’m a shooting guard on the team.  
