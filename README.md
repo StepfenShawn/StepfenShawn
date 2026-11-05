@@ -4,7 +4,7 @@
   <i>I'm <a href="https://stepfenshawn.github.io/">Shawn</a>, a developer from China who started coding at 13.</i>
 </p>
 
-I'm currently grinding full-time as a **software engineer**, focusing on optimizing low-latency trading systems and AI infrastructure.
+I'm currently grinding full-time as a **software engineer**, focusing on optimizing low-latency trading systems and AI infrastructure. I also spend time on embedded — bare-metal firmware, RTOS, and driver-level work in C/C++ and Rust.
 
 <hr>
 
