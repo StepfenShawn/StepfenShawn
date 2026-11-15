@@ -16,4 +16,4 @@ Always down to chat about system programming (Rust, Zig, LLVM, C++, C), quant, A
 
 <hr>
 
-<i>I wish RAM were cheaper 🙏🙏🙏 — running LLMs on CPU and building Rust tooling would be much more fun if every gigabyte didn't hurt my wallet so much.</i>
+<i>I wish RAM were cheaper 🙏🙏🙏 — running LLMs on CPU and building tooling would be much more fun if every gigabyte didn't hurt my wallet so much.</i>
